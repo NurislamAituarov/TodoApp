@@ -13,3 +13,6 @@ ReactDOM.render(
   </Provider>,
   document.getElementById('root')
 );
+
+
+// Поменял что то интересное
